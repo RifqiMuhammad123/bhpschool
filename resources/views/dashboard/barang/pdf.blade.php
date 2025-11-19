@@ -119,7 +119,7 @@
 </head>
 <body>
   <div class="school-header">
-    <h2>SMK MAHARDHIKA BATUJAJAR</h2>
+    <h2>SMK MAHARDHIKA BATUJAJARRR</h2>
     <p>Jl. Raya Batujajar No. 30 Cangkorah</p>
     <p>Telp. (022) 6868494</p>
   </div>
